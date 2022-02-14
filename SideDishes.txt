@@ -1,0 +1,5 @@
+S001,French Fries Extra,4.00
+S002,Sweet Potato Fries,4.50
+S003,Popcorn Chicken ,5.00
+S004,Mac N Cheese Large,6.50
+S005,Garlic Bread Large,3.00

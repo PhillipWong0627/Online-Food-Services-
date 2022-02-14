@@ -1,0 +1,4 @@
+C1,R001,Nasi Lemak Teluk Double,4.00
+C1,D005,Mineral Water,1.00
+C2,R003,Steamed Chicken Rice,7.00
+C2,N003,Fish Ball Noodle,6.00

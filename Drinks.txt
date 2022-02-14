@@ -1,0 +1,5 @@
+D010,Chocolate Latte,8.80
+D002,Pepsi Ice Cream,2.50
+D003,Iced Chocolate,4.00
+D004,Hot Lemon Tea,3.00
+D005,Mineral Water,1.00

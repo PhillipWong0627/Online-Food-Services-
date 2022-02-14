@@ -1,0 +1,6 @@
+N001,Chicken Chop Noodle,6.60
+N002,Dry Pan Mee Spicy,5.00
+N003,Fish Ball Noodle,6.00
+N004,Meat Ball Noodle,6.50
+N005,Fried Kuey Teow Mee,5.00
+N006,   Shirataki noodles,15.6

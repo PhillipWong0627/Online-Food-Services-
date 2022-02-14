@@ -1,0 +1,5 @@
+R001,Nasi Lemak Teluk Double,4.10
+R002,Nasi Lemak Ayam Goreng,6.00
+R003,Steamed Chicken Rice,7.00
+R004,Roasted Chicken Rice,7.50
+R005,Sweet & Sour Chicken,8.00
